@@ -9,6 +9,7 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 cd ./instalador2024 && sudo ./install_instancia
 ```
 
-Havendo dificuldade na instãlação entre em contato pelo número +55 71 4042-0098
-Vendemos o código completo e atualizado 
-Para istalar cobramos R$ 150,00
+Havendo dificuldade na instãlação entre em contato pelo número +55 71 4042-0098 -
+Vendemos o código completo atualizado 2024 -
+Para instalar cobramos R$ 150,00 -
+Suporte para instalação cobramos R$50,00
