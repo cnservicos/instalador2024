@@ -37,12 +37,7 @@ print_banner() {
   printf "\n"
 
 printf "${GREEN}";  
-printf "██████╗░██╗░░░░░░██╗░░░░░░░██╗\n";
-printf "██╔══██╗██║░░░░░░██║░░██╗░░██║\n";
-printf "██████╔╝██║░░░░░░╚██╗████╗██╔╝\n";
-printf "██╔═══╝░██║░░░░░░░████╔═████║░\n";
-printf "██║░░░░░███████╗░░╚██╔╝░╚██╔╝░\n";
-printf "╚═╝░░░░░╚══════╝░░░╚═╝░░░╚═╝░░\n";
+printf "Instalador WhatsApp | Suporte: +55 71 4042-0098 | Chico Santana\n";
 printf "${NC}";
   
   
